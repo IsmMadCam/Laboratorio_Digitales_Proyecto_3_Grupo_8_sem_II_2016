@@ -1,1 +1,2 @@
 # Laboratorio_Digitales_Proyecto_3_Grupo_8_sem_II_2016
+Proyecto3 Digitales Controlador de RTC mediante microprocesador Picoblaze
